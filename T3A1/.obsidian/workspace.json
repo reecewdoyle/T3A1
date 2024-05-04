@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T3A1/T3A1.md",
+                "file": "T3A1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T3A1/T3A1.md",
+                "file": "T3A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "T3A1/T3A1.md",
+                "file": "T3A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T3A1/T3A1.md"
+                "file": "T3A1.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "c56e580eac402550",
   "lastOpenFiles": [
     "T3A1",
-    "T3A1/erdA.png",
-    "T3A1/T3A1.md"
+    "erdA.png",
+    "T3A1.md"
   ]
 }
