@@ -15,7 +15,6 @@
               "state": {
                 "file": "T3A1.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -149,6 +148,9 @@
   },
   "active": "2c8d3a29cc38aa9f",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "T3A1.md",
+    "Untitled",
     "ReeceDoyle_T3A1.pdf",
     "frontend.png",
     "frontend.png.crdownload",
@@ -157,7 +159,6 @@
     "mern.png",
     "mern-dev.png",
     "homescreen.png",
-    "T3A1.md",
     "mern-dev.png.crdownload",
     "git-workflow.png",
     "git-branches.png",
